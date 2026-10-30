@@ -2,7 +2,7 @@
 
 An interactive Streamlit app for exploring water quality data.
 
-**Live app:** [paste your Streamlit URL here]
+**Live app:** https://water-dashboard-bykeving.streamlit.app/ 
 
 ## Purpose
 Lets users explore water quality measurements through tables, interactive
